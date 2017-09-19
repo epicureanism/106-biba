@@ -1,1 +1,0 @@
-# Bachelor's program of International Business Administration (BIBA)
