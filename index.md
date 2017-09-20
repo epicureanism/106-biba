@@ -53,16 +53,17 @@
   - Output
     - 6th APP - Phone
 
-### 10/27
+### 10/27 Week 7 - Ch. 4
 
   - Review
   - Term project discussion
   - Output
     - 7th APP - Voice Calculator
 
-### 11/3
+### 11/3 Week 8 - Term Project Show Time
 
   - Ignite Talk
+    - 3 mins talk (5mins at most) to share your ideas
 
 ## Resources
 
