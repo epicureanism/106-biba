@@ -12,6 +12,7 @@
       - Personal Laptop recommended
     - the usage of formatDateTime
       - explain this more detail
+    - the procedure of resetting emulator
 
 ### 9/22 Week 2 - Ch.1
 
