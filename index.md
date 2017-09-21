@@ -13,6 +13,16 @@
     - the usage of formatDateTime
       - explain this more detail
     - the procedure of resetting emulator
+      - Windows emulator
+        - 在ai starter 畫面，ctrl + c 按2次，強制退出ai starter
+        - 到ai2 畫面，選擇reset connection
+        - 到桌面(或開始功能列)，啟動ai starter
+        - 到ai2，選擇emulator
+      - mac emulator
+        - 在emulator 中，按鍵盤command + q 退出emulator
+        - 在ai2 網頁中，按reset connection
+        - 在ai2 中，按emulator
+
 
 ### 9/22 Week 2 - Ch.1
 
