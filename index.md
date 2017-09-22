@@ -23,7 +23,6 @@
         - 在ai2 網頁中，按reset connection
         - 在ai2 中，按emulator
 
-
 ### 9/22 Week 2 - Ch.1
 
   - Q&A for week 1
