@@ -31,7 +31,7 @@
   - Term project discussion
     - brainstrom your ideas
   - Output
-    - 2nd APP - Timer
+    - 2nd APP - Stopwatch
 
 ### 9/29 Week 3 - Ch.2
 
