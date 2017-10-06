@@ -1,4 +1,13 @@
+# App Inventor 2
+
+## 林嘉成@逢甲大學地理資訊系統研究中心
+## ricky@gis.fcu.edu.tw
+## ricky@gis.tw
+
+---
+
 ## Syllabus
+
 ---
 ### 9/15 Week 1 - Ch.1
 
@@ -11,7 +20,7 @@
 ---
 ### 9/22 Week 2 - Ch.1
 
-  - Q&A for week 1
+  - Q&A for week 1 
   - Where are you from?
   - Variables
   - Term project discussion
