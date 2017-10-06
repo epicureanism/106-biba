@@ -33,32 +33,46 @@
 
   - FOR and WHILE loop
   - Term project discussion
+    - Is our idea viable?
+    - Is our idea attractive?
   - Output
     - 4th APP - draw lots
+    - Describe group idea with criteria.
+      - Mail the description to ricky@gis.tw
 
 ---
 ### 10/13 Week 5 - Ch.3
 
   - Array
   - Term project discussion
+    - Draw the main feature of our idea
   - Output
     - 5th APP - Rock, Paper, Scissors
----
+    - Draw the idea with any tools
+      - Mail to ricky@gis.tw
+
+--- 
 
 ### 10/20 Week 6 - Ch. 3
 
   - Function
   - Term project discussion
+    - Draw/Make every features/steps of the project
   - Output
     - 6th APP - Phone
+    - Detail features/steps of the project
+      - Mail to ricky@gis.tw
 ---
 
 ### 10/27 Week 7 - Ch. 4
 
   - Review
   - Term project discussion
+    - Prepare the final presentations
   - Output
     - 7th APP - Voice Calculator
+    - Prepare the materials for final presentation
+
 ---
 
 ### 11/3 Week 8 - Term Project Show Time
