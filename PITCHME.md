@@ -1,6 +1,6 @@
 # App Inventor 2
 
-## 林嘉成@逢甲大學地理資訊系統研究中心
+## 林嘉成@逢甲大學GIS研究中心
 ## ricky@gis.fcu.edu.tw
 ## ricky@gis.tw
 
