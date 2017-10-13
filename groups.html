@@ -17,18 +17,22 @@
     </style>
   </head>
   <body>
-    <button value="A">A</button>
+    <button value="A" data-group="A">A</button>
     <button value="B">B</button>
     <textarea id="source">
 
     </textarea>
-    <script src="https://remarkjs.com/downloads/remark-latest.min.js">
-    </script>
+    <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
     <script>                
         var groupID = 'B';      
         var slideshow = remark.create({
             sourceUrl: `https://raw.githubusercontent.com/epicureanism/106-biba/master/${groupID}/PITCHME.md`
         });
+
+        $($("button[data-group]").click(function(){
+          console.log(this);
+        }));
     </script>
   </body>
 </html>
