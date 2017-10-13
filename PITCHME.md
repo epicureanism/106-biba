@@ -50,6 +50,7 @@
       - Mail the description to ricky@gis.tw
 
 ---
+
 ### 10/13 Week 5 - Ch.3
 
   - Array
@@ -60,7 +61,7 @@
     - Draw the idea with any tools
       - Mail to ricky@gis.tw
 
---- 
+---
 
 ### 10/20 Week 6 - Ch. 3
 
@@ -94,7 +95,7 @@
 
 - [PPT](https://drive.google.com/open?id=0B2FrbAspq4P-QVA5eVlZNkVxU3M)
 - [Emulator](http://appinventor.mit.edu/explore/ai2/setup-emulator.html)
-
+- [Group Ideas](https://epicureanism.github.io/106-biba/groups.html)
 ---
 
 ## Q&A
