@@ -1,6 +1,6 @@
 ## 9/29
-
-- When we use line app it can not take a picture so I think line app should be better 
+- an camera idea about improving Line 
+> When we use line app it can not take a picture so I think line app should be better 
 ---
 
 ## 10/6 why is it attractive?
