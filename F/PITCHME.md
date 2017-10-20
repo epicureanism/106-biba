@@ -8,3 +8,5 @@
 > Our program does not aim to make users feel insecure about their BMI thus in every result a positive motivational BLESSING will appear, offering the user a sense of enlightenment. Confucious type quotes are those that we will be imposing on our app.
 
 ---
+## 10/19
+![prototype](prototype.jpg)
